@@ -1,4 +1,6 @@
 {
+  "advancements.gigeresque.find_dungeon.title": "Древнее сооружение",
+  "advancements.gigeresque.find_dungeon.description": "Некоторые вещи должны оставаться захороненными.",
   "block.gigeresque.petrified_object": "Окаменевший объект",
   "block.gigeresque.black_fuild_block": "Чёрная жидкость",
   "block.gigeresque.nest_resin": "Гнездовая смола",
@@ -227,5 +229,7 @@
   "config.gigeresque.option.facehuggerStunTickTimer": "Таймер оглушения лицехвата",
   "config.gigeresque.option.enableFacehuggerAttachmentTimer": "Включить таймер лицехвата на экране",
   "config.gigeresque.option.enableFacehuggerTimerTicks": "Заставляет таймер лицехвата на экране использовать тики",
+  "config.gigeresque.option.enabledCreativeBootAcidProtection": "Отключает возможность кислоты наносить урон ботинкам игроков в творческом режиме",
+  "config.gigeresque.option.enableAcidLavaRemoval": "Включает для лавы возможность удалять кислотное/чёрное-слизевое кровотечение",
   "config.screen.gigeresque": "Гигеризм: настройки"
 }
